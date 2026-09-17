@@ -4,6 +4,8 @@
 
 [![进入预测系统](https://img.shields.io/badge/%E8%BF%9B%E5%85%A5%E9%A2%84%E6%B5%8B%E7%B3%BB%E7%BB%9F-1e293b?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iIzIyYzU1ZSIgZD0iTTEzIDNsOSA5LTkgOXYtNkgyVjloMTF6Ii8%2BPC9zdmc%2B&logoSize=auto)](https://yc.ftcq.asia)
 
+**工具地址：** [yc.aiyuces.com](https://yc.aiyuces.com)
+
 整理日期：2026-09-17　｜　专题方向：复查实践
 
 <!-- article-chain:start -->
